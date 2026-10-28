@@ -1,0 +1,7 @@
+{
+  "name": "Vindicat",
+  "description": "Orientación jurídica vial en Colombia con inteligencia artificial para comparendos, fotodetecciones y trámites administrativos.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
